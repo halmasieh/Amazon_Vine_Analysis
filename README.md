@@ -79,7 +79,7 @@ In addition, as shown in the following table,
 
 
 
-<img src="" width="600" height="400"  />
+<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/marketplace.PNG" width="600" height="400"  />
 
 
 
