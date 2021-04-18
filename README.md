@@ -118,8 +118,8 @@ We claculated the percentage of 5-star Vine reviews versus un-Vine reviews as fo
 
 
 ## Summary
-According to the observed percentages attributed to 5-star vine reviews versus 5-star un-vine reviews, it can be stated that
-since the percentage of vine reviews gave 5-star ratings is higher than un-vine reviews, so, we could probably tell that the vine
+According to the observed percentages attributed to 5-star Vine reviews versus 5-star un-Vine reviews, it can be stated that
+since the percentage of Vine reviews gave 5-star ratings is higher than un-Vine reviews, so, we could probably tell that the Vine
 program has a positive bias. 
 
 In addition, as shown in the following table, 
@@ -127,7 +127,7 @@ In addition, as shown in the following table,
 
 
 
-<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/marketplace.PNG" width="600" height="400"  />
+<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/marketplace.PNG" width="500" height="500"  />
 
 
 
