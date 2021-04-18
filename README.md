@@ -23,11 +23,11 @@ Cloud Service : [AWS](https://aws.amazon.com/)
 
 
 ## Results
-Using the knowledge of the cloud ETL process, we create an AWS RDS database with tables in pgAdmin, pick a dataset from the Amazon Review datasets (Links to an external site.), and extract the dataset into a DataFrame. We transform the DataFrame into four separate DataFrames that match the table schema in pgAdmin. Then, we upload the transformed data into the appropriate tables and run queries in pgAdmin to confirm that the data has been uploaded.
+Using the knowledge of the cloud ETL process, we create an AWS RDS database with tables in pgAdmin, pick a dataset from the Amazon Review datasets (Links to an external site.), and extract the dataset into a dataframe. We transform the dataframe into four separate dataframes that match the table schema in pgAdmin. Then, we upload the transformed data into the appropriate tables and run queries in pgAdmin to confirm that the data has been uploaded.
 
 The tables are design as follows:
 
-1- **The customers_table datafram**: 
+1- **The customers_table dataframe**: 
 
 
 
