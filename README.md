@@ -123,7 +123,8 @@ since the percentage of Vine reviews gave 5-star ratings is higher than un-Vine 
 program has a positive bias. In order to support the statement of the positive bias that Vine reviews made versus the un-Vine reviews, 
 we can state that from the view of sentimental reviews, people who are getting paid for Vine-reviews are more positive than the people who do not pay.
 
-In addition, as shown in the following table, 
+### Additional Analysis 
+As, shown in the following table, 
 
 
 
