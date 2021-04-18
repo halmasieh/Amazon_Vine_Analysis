@@ -85,8 +85,8 @@ As shown in the following dataframe
 
 
 
-- The number of vine reviews means ("vine=Y") is 94.
-- The number of non-vine reviews means ("vine=N") is 40471
+- The number of Vine reviews means ("vine=Y") is 94.
+- The number of non-Vine reviews means ("vine=N") is 40471
 
 The total number of reviews is 40565.
 
@@ -104,15 +104,15 @@ As shown in the following dataframes
 
 
 
-- The number of 5-star vine reviews is 48  .
-- The number of 5-star un-vine reviews is 15663 .
+- The number of 5-star Vine reviews is 48  .
+- The number of 5-star un-Vine reviews is 15663 .
 
 3- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-We claculated the percentage of 5-star vine reviews versus un-vine reviews as follows:
+We claculated the percentage of 5-star Vine reviews versus un-Vine reviews as follows:
 
-- The percentage of 5-star vine reviews is 51.06%
-- The percentage of 5-star un-vine reviews is 38.70%
+- The percentage of 5-star Vine reviews is 51.06%
+- The percentage of 5-star un-Vine reviews is 38.70%
 
 
 
