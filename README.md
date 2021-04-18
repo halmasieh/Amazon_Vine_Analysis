@@ -86,7 +86,8 @@ As shown in the following dataframe
 
 
 - The number of vine reviews means ("vine=Y") is 94.
-- The number of non-vine reviews means ("vine=Y") is 40471
+- The number of non-vine reviews means ("vine=N") is 40471
+
 The total number of reviews is 40565.
 
 2- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
