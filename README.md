@@ -2,9 +2,7 @@
 
 ## Project Overview
 " Big Data " is a popular buzzword in the data industry today. But what does the term mean, and why is it important in the broader
-context of data science. 
-
-In this analysis, we dig into the industry definition of "big data". We explore big data ecosystem including Spark which improves the 
+context of data science. In this analysis, we dig into the industry definition of "big data". We explore big data ecosystem including Spark which improves the 
 process for handling big data versus Hadoop. After diving into some of the technologies, used with big data, we perform ETL on a dataset 
 from Amazon Web Service (AWS). Cloud service let us store large amounts of data at remote locations rather than locally, on top of many other services.
 This allows for more scalability and performance. 
