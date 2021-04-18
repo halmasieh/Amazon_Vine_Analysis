@@ -25,6 +25,55 @@ Cloud Service : [AWS](https://aws.amazon.com/)
 
 
 ## Results
+Using the knowledge of the cloud ETL process, we create an AWS RDS database with tables in pgAdmin, pick a dataset from the Amazon Review datasets (Links to an external site.), and extract the dataset into a DataFrame. We transform the DataFrame into four separate DataFrames that match the table schema in pgAdmin. Then, we upload the transformed data into the appropriate tables and run queries in pgAdmin to confirm that the data has been uploaded.
+
+The tables are design as follows:
+
+1- **The customers_table datafram**: 
+
+
+
+
+
+<img src="" width="600" height="400"  />
+
+
+
+
+
+
+2- **The products_table dataframe**:
+
+
+
+
+<img src="" width="600" height="400"  />
+
+
+
+
+
+3- **The review_id_table dataframe**:
+
+
+
+
+<img src="" width="600" height="400"  />
+
+
+
+4- **The vine_table dataframe**:
+
+
+
+
+<img src="" width="600" height="400"  />
+
+
+
+
+To determine if there is any bias towards reviews that were written as part of the Vine program. We determine if having a paid Vine review makes a difference in the percentage of 5-star reviews. Therefore we address the following questions:
+
 1- How many Vine reviews and non-Vine reviews were there?
 
 AS shown in the following dataframe
