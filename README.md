@@ -35,7 +35,7 @@ The tables are design as follows:
 
 
 
-<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/customer_table.PNG" width="400" height="600"  />
+<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/customer_table.PNG" width="400" height="400"  />
 
 
 
