@@ -79,7 +79,7 @@ As shown in the following dataframe
 
 
 
-<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/vine-unvine.PNG" width="400" height="400"  />
+<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/vine-unvine.PNG" width="500" height="500"  />
 
 
 
@@ -96,7 +96,7 @@ As shown in the following dataframes
 
 
 
-<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/5-star.PNG" width="600" height="400"  />
+<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/5-star.PNG" width="500" height="500"  />
 
 
 
