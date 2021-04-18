@@ -127,7 +127,7 @@ In addition, as shown in the following table,
 
 
 
-<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/marketplace.PNG" width="500" height="500"  />
+<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/marketplace.PNG" width="400" height="500"  />
 
 
 
