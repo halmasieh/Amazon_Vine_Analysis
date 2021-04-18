@@ -74,12 +74,12 @@ To determine if there is any bias towards reviews that were written as part of t
 
 1- How many Vine reviews and non-Vine reviews were there?
 
-AS shown in the following dataframe
+As shown in the following dataframe
 
 
 
 
-<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/vine-unvine.PNG" width="600" height="400"  />
+<img src="https://github.com/halmasieh/Amazon_Vine_Analysis/blob/main/vine-unvine.PNG" width="400" height="400"  />
 
 
 
